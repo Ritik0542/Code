@@ -1,1 +1,1 @@
-# Write a code to find the second largest element in an array
+# Write a code to find the second maximum and second minimum element in an array
