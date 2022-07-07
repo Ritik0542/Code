@@ -99,15 +99,7 @@ int main()
             case 0: break;
 
             default: printf("\nInvalid input ");
-
-
-
         }
     }
-
     return 0;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Term
